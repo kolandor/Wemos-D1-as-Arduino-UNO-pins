@@ -6,3 +6,5 @@ You will need to most directly determine which one is with you.
 Depending on the version of the board, the pin sequence is slightly different. The repository contains a picture that visually shows the differences.
 
 Determining the version of the board is quite simple, using the trial method.
+
+Example: https://github.com/kolandor/Wemos-D1-LED-display
